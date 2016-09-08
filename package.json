@@ -1,0 +1,24 @@
+{
+  "name": "facebook-module-es6",
+  "version": "1.0.0",
+  "description": "Facebook async module",
+  "main": "fb-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanopwan Tangprakit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanopwan/facebook-module-es6.git"
+  },
+  "keywords": [
+    "facebook",
+    "es6",
+    "login"
+  ],
+  "bugs": {
+    "url": "https://github.com/tanopwan/facebook-module-es6/issues"
+  },
+  "homepage": "https://github.com/tanopwan/facebook-module-es6#readme"
+}
