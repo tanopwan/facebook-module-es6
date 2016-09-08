@@ -2,7 +2,7 @@
   "name": "facebook-module-es6",
   "version": "1.0.0",
   "description": "Facebook async module",
-  "main": "fb-module.js",
+  "main": "lib/js/fb-module.js",
   "scripts": {
     "compile": "babel --presets es2015 -d lib/ src/",
     "prepublish": "npm run compile"
