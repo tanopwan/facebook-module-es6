@@ -4,11 +4,8 @@
   "description": "Facebook async module",
   "main": "lib/js/fb-module.js",
   "scripts": {
-    "compile": "babel --presets es2015 -d lib/ src/",
+    "compile": "babel --presets es2015 -d lib/js src/js",
     "prepublish": "npm run compile"
-  },
-  "babel": {
-    "presets": ["es2015"]
   },
   "author": "Tanopwan Tangprakit",
   "license": "ISC",
